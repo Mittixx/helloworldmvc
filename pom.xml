@@ -7,6 +7,12 @@
     <groupId>fr.tanguy.</groupId>
     <artifactId>helloworldmvc</artifactId>
     <version>0.1</version>
+    <modules>
+        <module>contract</module>
+        <module>controller</module>
+        <module>model</module>
+        <module>view</module>
+    </modules>
     <packaging>pom</packaging>
 
     <dependencies>
